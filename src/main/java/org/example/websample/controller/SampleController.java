@@ -45,9 +45,5 @@ public class SampleController {
     public static class CreateOrderRequest {
         private String orderId;
         private Integer orderAmount;
-
-
-
     }
-
 }
